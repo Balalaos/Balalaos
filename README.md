@@ -2,7 +2,7 @@
 
 I am Vladimir Sulzik, a backend software engineer with a strong enthusiasm for crafting innovative creations 🚀
 
-💼 **I’m currently working on my project collection deployed on a single website:**
+💼 **I’m currently working on my project collection deployed on a single [website](https://github.com/Balalaos/website):**
   + **Backend stack: Python Flask + API + SQLite**
   + **Frontend stack: HTML + CSS**
 <br/><br/>
